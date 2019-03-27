@@ -1,5 +1,5 @@
 
-# [CS3200 Project](http://ec2-18-216-205-102.us-east-2.compute.amazonaws.com/index)  
+# [Marvel Cinematic Universe](http://ec2-18-216-205-102.us-east-2.compute.amazonaws.com/index)  
 ## Installing Flask  
 ```sh
 $ sudo pip install Flask  
